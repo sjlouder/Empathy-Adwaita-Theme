@@ -1,0 +1,19 @@
+.header {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #393F3F;
+  border-top: 1px solid #393F3F;
+  border-bottom: 1px solid #393F3F;
+  color: #DDDDDD
+}
+
+.message {
+  background-color: #333333;
+  color: #DDDDDD;
+  /*border-radius: 0 0 5px 5px;*/
+}
+
+.footer {
+  background-color: #333333;
+  color: #DDDDDD;
+  border-radius: 0 0 5px 5px;
+}
